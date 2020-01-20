@@ -11,3 +11,4 @@
     <main>L amet consectetur adipisicing elit. Eaque, et alias assumenda, sequi culpa neque nam perferendis esse incidunt animi placeat omnis quae inventore molestiae error voluptate magnam unde. Velit!</main>
 >>>>>>> dev
 </footer>
+Edited from github
